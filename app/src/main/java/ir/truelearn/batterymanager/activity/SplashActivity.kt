@@ -44,7 +44,6 @@ class SplashActivity : AppCompatActivity() {
             })
         }, delayTime)
     }
-
 }
 
 
