@@ -23,8 +23,7 @@ class SplashActivity : AppCompatActivity() {
 
 
         val textArray = resources.getStringArray(R.array.battery_states);
-
-        for (i in 1..6) {
+        for (i in 1..5) {
             helpTextGenerator((i * 1000).toLong(), textArray[i-1])
         }
 
