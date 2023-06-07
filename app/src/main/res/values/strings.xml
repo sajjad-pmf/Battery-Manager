@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Battery Manager</string>
+    <string name="in_this_app_you_can">in this App you can</string>
+    <string name="info_title">check your battery state</string>
+    <string name="voltage">voltage</string>
+    <string name="technology">technology</string>
+    <string name="plug_in">plug state</string>
+    <string name="temperature">temperature</string>
+    <string name="service_on">service is on</string>
+    <string name="service_off">service is off</string>
+    <string name="service_turned_on">service is turned on</string>
+    <string name="service_turned_off">service is turned off</string>
+    <string name="plugged_out">plugged-out</string>
+    <string name="plugged_in">plugged-in</string>
+    <string name="battery_dead">your battery state is going to dead, please charge your battery</string>
+    <string name="battery_fine">your battery state is fine, please take care of that</string>
+    <string name="battery_cold">your battery is cold</string>
+    <string name="battery_overheat">your battery is overheat, please do not work with your phone</string>
+    <string name="battery_over_voltage">your battery is over voltage, please do not work with your phone</string>
+    <string name="close_application_test">Do you want to close application?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit_app">Exit App</string>
+    <string name="using_battery">your phone is using battery</string>
+    <string name="charging_battery">your phone is charging</string>
+    <string name="battery_charged">your phone is fully charged!</string>
+    <string name="loading">Loading…</string>
+    <string name="wait_for_battery">wait for battery data!</string>
+
+</resources>

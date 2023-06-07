@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="battery_states">
+        <item>Make your battery powerful</item>
+        <item>Make your battery safe</item>
+        <item>Make your battery faster</item>
+        <item>Manage your phone battery</item>
+        <item>Notify when your phone arrived to full charge</item>
+    </string-array>
+</resources>
